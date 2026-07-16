@@ -33,8 +33,8 @@ A statistical dead heat between the world's #1 and #2 Elo-rated teams — with t
 ## 🚀 Reproduce
 
 ```bash
-git clone https://github.com/<your-username>/worldcup-2026-predictor.git
-cd worldcup-2026-predictor
+git clone https://github.com/<your-username>/worldcup2026_winner_predictor.git
+cd worldcup2026_winner_predictor
 pip install -r requirements.txt
 jupyter lab
 ```
